@@ -11,3 +11,5 @@ elif country == '美國':
 		print('你可以開車喔!! ')
 	else:
 		print('小屁孩, 旁邊玩沙去吧!!' )
+else:
+	print('我們只負責台灣跟美國啦!!')
